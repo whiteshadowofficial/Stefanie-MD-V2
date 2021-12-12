@@ -2,13 +2,13 @@
   "name": "FidhaMwol",
   "version": "7.3.6",
   "description": "Fidha Mwol is the Modified Version of JulieMwol, Made By @Hypersir with Baileys.",
-  "main": "./Julie-Mwol/bot.js",
+  "main": "./stefanie-npm/index.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hypersir/Fidha-Mwol.git"
+    "url": "git+https://github.com/Kaweeshachamodk/stefanie-npm.git"
   },
   "keywords": [
     "whatsapp",
@@ -21,9 +21,9 @@
   "developer": "@Hypersir / @farhan-dqz",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Hypersir/Fidha-Mwol/issues"
+    "url": "https://github.com/Kaweeshachamodk/stefanie-npm/issues"
   },
-  "homepage": "https://github.com/Hypersir/Fidha-Mwol#readme",
+  "homepage": "https://github.com/Kaweeshachamodk/stefanie-npm#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.2",
     "@lh2020/speedtest-net": "^2.1.1",
