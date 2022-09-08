@@ -1,6 +1,1 @@
-@Stefanie - Unlimited - Version - createing...
-
-@Waiting For enjoy with it...@
-
-@Stefanie Bot original repo hear...👇@
-https://github.com/whiteshadowofficial/STEFANIE-BOT-MD
+@94779529221- @94763853788 @{Mr.White Shadow OFC} @94779529221- @94763853788@94779529221- @94763853788 @{Mr.White Shadow OFC} @94779529221- @94763853788@94779529221- @94763853788 @{Mr.White Shadow OFC} @94779529221- @94763853788@94779529221- @94763853788 @{Mr.White Shadow OFC} @94779529221- @94763853788@94779529221- @94763853788 @{Mr.White Shadow OFC} @94779529221- @94763853788
