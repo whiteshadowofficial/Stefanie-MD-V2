@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /julie/Dockerfile
+      worker: /Stefanie_X/Dockerfile
 run:
    worker: npm start
